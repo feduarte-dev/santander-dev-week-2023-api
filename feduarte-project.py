@@ -80,7 +80,7 @@ for user in users:
       "description": data
   })
 
-"""## **L**oad
+"""## **Load
 
 Atualize a lista de "news" de cada usuário na API com a nova mensagem gerada.
 """
